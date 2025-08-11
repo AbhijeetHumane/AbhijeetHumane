@@ -1,6 +1,6 @@
-# 📊 Hey there, welcome to my GitHub!  
+# 📊 Hey there, welcome to my GitHub space! 
 
-This is my little corner of the internet where I share my journey in **data analytics** — turning raw numbers into stories, patterns, and decisions.  
+Thanks for stopping by —  this is where I share my journey in **data analytics** — turning raw numbers into stories, patterns, and decisions.  
 I’m passionate about **data-driven problem solving**, sharpening my skills with new tools, and making analytics approachable (and maybe even a little fun!).  
 
 Here, you’ll find:  
