@@ -16,7 +16,7 @@ You bring the data, I’ll bring the insights 📂📉
 
 
 ## 🌐 Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhijeetHumane-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-humane-pb/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-humane-pb/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhijeeth2o/)
 
 ## 💻 Tech Stack
