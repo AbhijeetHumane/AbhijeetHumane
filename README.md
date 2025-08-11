@@ -13,3 +13,8 @@ Whether you’re here to learn something new, collaborate, or just see how anoth
 
 **Let’s connect, analyze, and grow — one dataset at a time.**  
 You bring the data, I’ll bring the insights 📂📉  
+
+
+# 🌐 Socials 
+[![Instagram](https://img.shields.io/badge/Instagram-@YOUR_INSTAGRAM- E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhijeeth2o/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-humane-pb/)  
